@@ -1,2 +1,2 @@
 # Experiment-2
-Linear and Non-linear SVM
+Classification using Linear SVM and Non Linear SVM on load_iris dataset and kaggle dataset
